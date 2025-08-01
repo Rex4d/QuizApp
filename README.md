@@ -45,11 +45,3 @@ JavaQuizApp/
 ├── README.md
 └── QuizApp.jar
 
-## 🙋‍♂️ Author
-
-👤 https://github.com/Rex4d  
-🎓 UI/UX Designer | 🎬 Video Editor | 💻 Beginner Java Developer
-
-## 📝 License
-
-This project is open-source and free to use under the MIT License.
